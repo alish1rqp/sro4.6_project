@@ -1,0 +1,7 @@
+i2025-02-15 11:40:48 INFO  com.example.rest.VehicleResource - Получен запрос на получение списка транспортных средств
+2025-02-15 11:45:52 DEBUG com.example.rest.VehicleResource - Добавлено новое транспортное средство: com.example.model.Vehicle@1929f1ff
+2025-02-15 11:45:52 INFO  com.example.rest.VehicleResource - Общее количество транспортных средств после добавления: 1
+2025-02-15 12:01:25 DEBUG com.example.rest.VehicleResource - Добавлено новое транспортное средство: com.example.model.Vehicle@3406ec19
+2025-02-15 12:01:25 INFO  com.example.rest.VehicleResource - Общее количество транспортных средств после добавления: 2
+2025-02-22 11:41:25 INFO  com.example.rest.VehicleResource - Получен запрос на получение списка транспортных средств
+2025-02-22 11:41:25 DEBUG com.example.rest.VehicleResource - Текущее количество транспортных средств: 0
